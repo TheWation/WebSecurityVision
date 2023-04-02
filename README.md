@@ -3,7 +3,7 @@
 WebSecurityVision is a tool for checking XSS vulnerability in the Pentest process, by calling it on the page, if the site has XSS vulnerability and the security headers are not set correctly, the browser information, including cookies and headers related to the cyber security space shows.
 
 <p align="center">
-    ![Screenshot](https://github.com/TheWation/WebSecurityVision/blob/master/github/screenshot.png?raw=true)
+    <img alt="BetterCap" src="https://github.com/TheWation/WebSecurityVision/blob/master/github/screenshot.png?raw=true" height="394" />
 </p>
 
 ## Usage

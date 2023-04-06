@@ -1,5 +1,8 @@
 # WebSecurityVision
 
+[![made-with-python](http://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![built-with-love](http://forthebadge.com/images/badges/built-with-love.svg)](https://gitHub.com/TheWation/)
+
 WebSecurityVision is a powerful tool for checking XSS vulnerabilities during the Pentest process. By calling the tool on a page, it can identify whether the site has an XSS vulnerability, and check to see if the security headers are set correctly. If the site has an XSS vulnerability and the security headers are not set correctly, the tool will display browser information, including cookies and headers related to the cybersecurity space.
 
 <p align="center">
